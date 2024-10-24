@@ -23,7 +23,7 @@ body {
     backdrop-filter: blur(10px); /* Efecto de desenfoque */
     -webkit-backdrop-filter: blur(10px); /* Soporte para Safari */
     border: 1px solid rgba(255, 255, 255, 0.3); /* Borde semitransparente */
-    max-width: 400px;
+    max-width: 420px;
     width: 100%;
 }
 
@@ -72,5 +72,9 @@ button:hover {
     
     .quote-box {
         font-size: 1.2rem;
+    }
+
+    .container {
+        max-width: 400px;
     }
 }
