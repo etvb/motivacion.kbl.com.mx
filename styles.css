@@ -43,11 +43,12 @@ h1 {
     backdrop-filter: blur(8px); /* Efecto de desenfoque */
     -webkit-backdrop-filter: blur(8px); /* Soporte para Safari */
     border: 1px solid rgba(255, 255, 255, 0.2); /* Borde semitransparente */
-    color: #fff;
+    color: #1d1c1c;
     min-height: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
+    font-weight: bold;
 }
 
 button {
